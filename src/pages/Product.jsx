@@ -89,6 +89,9 @@ const Product = () => {
           <p>E-commrece websites typically display products or services along with detailed description, iages,price, and any available variations(e.g., sizes, colors).Each product usually has its own dedicated page with relevant information.</p>
        </div>
       </div>
+      {/*-----display related products------- */}
+
+      
     </div>
   ) : <div className='opacity-0'></div>
 }
